@@ -1,19 +1,27 @@
-title: Moonwalk
-author: Abhinav Saxena
-url: https://www.abhinavsaxena.com/moonwalk # root address of the site
+title: JPG Aerospace Inc
+author: Juan Pablo Gaviria
+url: https://www.jpgaerospace.com # root address of the site
 description: > # description of the site (multiple lines allowed)
-  Moonwalk is a fast and elegant Jekyll theme with a clean dark mode. It comes with horizontal list (for navbar and footer), card list (for portfolio), and a generic vertical list. It is very easy to modify in case you want to build over it - please see _layouts/home.html to do that.
+  As a services company, we are dedicated to helping developers of new and novel technologies make their visions a reality. With our expertise in aerospace engineering, sustainability, and innovation, we provide a range of services and solutions that enable our clients to bring their ideas to life.
+  
+  From concept development to prototyping and testing, we work closely with our clients to understand their unique needs and challenges. We leverage our experience and knowledge to provide customized solutions that are tailored to their specific goals and requirements.
+  
+  Our team of experts includes some of the brightest minds in aerospace engineering and sustainability, who are passionate about pushing the boundaries of what is possible. They bring a wealth of experience and knowledge to every project, ensuring that our clients receive the highest quality services and support.
+  
+  We are proud to be a trusted partner to developers of new and novel technologies, helping them to bring their ideas to market faster and more efficiently. By providing a range of services and solutions that are tailored to their specific needs, we are enabling our clients to make a real impact in the world, whether it be through reducing emissions, improving efficiency, or creating new opportunities for economic growth and development.
+  
+  In short, we are not just a services company, but a partner and collaborator, working hand-in-hand with developers of new and novel technologies to make the world a better place..
 
 permalink: /:slug
 
 favicon: "./logo.png" # relative path to site's favicon
 
-twitter:
-    username: abhinav # update or delete this
-    card: summary_large_image
+#twitter:
+#    username: JPG  # update or delete this
+#   card: summary_large_image
 
 #theme: moonwalk # if you are using GitHub Pages, change it to remote_theme: abhinavs/moonwalk
-remote_theme: abhinavs/moonwalk
+remote_theme: jpgaviria/moonwalk
 
 theme_config:
   appearance: "dark" # can be "light", "dark" or "auto"
@@ -33,10 +41,10 @@ theme_config:
   show_tags: true # show tags in a blog posts
   # options for "home" page
   home:
-    title_projects: Portfolio
-    title_misc_list: Details
-    title_blog: Blog
-    title_old_projects: Old Projects
+    #title_projects: Portfolio
+    #title_misc_list: Details
+    #title_blog: Blog
+    #title_old_projects: Old Projects
 
 soopr:
   publish_token: "" # sign up at https://www.soopr.co to get your publish token and personalize share and reaction options
